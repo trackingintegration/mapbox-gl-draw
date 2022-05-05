@@ -61,7 +61,7 @@
     "@rollup/plugin-buble": "^0.20.0",
     "@rollup/plugin-json": "^4.0.0",
     "@rollup/plugin-node-resolve": "^6.0.0",
-    "@rollup/plugin-replace": "^2.2.1",
+    "@rollup/plugin-replace": "^2.4.2",
     "@turf/centroid": "^6.0.0",
     "babel-eslint": "10.0.3",
     "babel-plugin-istanbul": "^5.1.0",
